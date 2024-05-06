@@ -18,7 +18,7 @@ Observação: Ele foi feito para manter somente 1 arquivo ZIP de Backup na pasta
 
 1 - O Script acessa a pasta de backup e faz a verificação se tem algum arquivo ZIP iniciando com o nome da máquina: 
 
-- Exemplo: 
+Exemplo: 
 - Nome da máquina: Sistema
 - Então ele irá verificar todo arquivo que começa com Sistema, localizando arquivos como: Sistema_XXX_XXX (com datas, etc)
 
